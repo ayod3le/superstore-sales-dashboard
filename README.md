@@ -77,7 +77,7 @@ and fact tables inside Power Query:
 | `Capstone_Project.pbix` | Power BI Desktop file — download to explore |
 | `Superstore_Sales_Dashboard.pdf` | Static PDF export for quick viewing |
 | `dashboard_screenshot.png` | Dashboard preview image |
-
+| `Superstore_Dashboard_Report.docx` | Plain English narrative report explaining the dashboard |
 ---
 
 ## Skills Demonstrated
